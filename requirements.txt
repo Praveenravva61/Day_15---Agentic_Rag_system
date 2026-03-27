@@ -1,0 +1,28 @@
+# Google Agent Development Kit (ADK)
+
+google-adk
+
+# Google Cloud services
+
+google-cloud-bigquery
+google-cloud-aiplatform
+
+# Data handling
+
+pandas
+
+# HTTP requests
+
+requests
+
+# Progress bars
+
+tqdm
+
+# Utilities (usually built-in but safe)
+
+typing-extensions
+
+# Optional but recommended
+
+python-dotenv
